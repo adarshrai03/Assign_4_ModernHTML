@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table of html and html5</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<style>
+    .container{
+        display: flex;
+        justify-content: center;
+        height: 100vh;
+        width: 100vw;
+        background-image: linear-gradient(140deg , rgb(244, 244, 244) , rgb(104, 103, 103));
+    }
+    .table{
+        border-radius: 10px;
+        text-align: center;
+        height: 600px;
+        width: 700px;
+    }
+    .table , tr , th , td{
+        
+        border: 2px solid black;
+        font-family: 'Roboto', sans-serif;
+    }
+    
+</style>
+<body>
+    <div class="container">
+        <table class="table">
+            <tr>
+                <th>Feature</th>
+                <th>HTML</th>
+                <th>HTML5</th>
+            </tr>
+            <tr>
+                <td>1. DOCTYPE</td>
+                <td>Required to specify the version of HTML.</td>
+                <td>Simplified to ' DOCTYPE html '</td>
+            </tr>
+            <tr>
+                <td>2. Syntax</td>
+                <td>More strict.</td>
+                <td>More forgiving with optional elements.</td>
+            </tr>
+            <tr>
+                <td>3. New Elements</td>
+                <td>Limited number of semantic elements.</td>
+                <td>Introduced many new semantic elements (e.g., header, footer, nav, etc.).</td>
+            </tr>
+            <tr>
+                <td>4. Offline Support</td>
+                <td>No built-in support for offline web apps.</td>
+                <td>Introduced Application Cache for creating offline web applications.</td>
+            </tr>
+            <tr>
+                <td>5. Canvas and SVG</td>
+                <td>Not supported natively.</td>
+                <td>Introduced 'canvas' for 2D drawing and retained support for Scalable Vector Graphics (SVG).</td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

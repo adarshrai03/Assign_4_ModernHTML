@@ -1,0 +1,11 @@
+Here are three key ways to improve accessibility on a website:
+
+1. Provide Clear and Descriptive Text Alternatives:
+	Alt Text for Images: Ensure that all images have descriptive alt text. This text provides information about the content or purpose of the image and is crucial for users who are using screen readers or have images disabled. It should be concise and informative.
+
+2. Implement Keyboard Accessibility:
+	Keyboard Navigation: Ensure that all functionalities on the website can be accessed and operated using a keyboard alone. This is crucial for users who may have difficulty using a mouse or other pointing devices.
+
+3. Design for Readability and Consistency:
+	Readable Text and Color Contrast: Use legible font styles, sizes, and colors. Ensure there is sufficient contrast between text and background colors to make content easily readable. This benefits users with visual impairments.
+	Consistent Navigation and Layout: Maintain a consistent layout and navigation structure across the website. This helps users understand how to navigate and find information consistently, reducing confusion.

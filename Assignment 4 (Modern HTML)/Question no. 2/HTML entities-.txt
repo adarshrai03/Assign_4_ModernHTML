@@ -1,0 +1,15 @@
+HTML entities:-
+
+HTML entities are special codes used in HTML documents to represent characters that have a specific meaning in HTML or that are reserved for specific purposes. These codes start with an ampersand (&) and end with a semicolon (;). 
+
+Here are five commonly used HTML entities:
+
+1. &lt; - Represents the less-than sign " < " .
+
+2. &gt; - Represents the greater-than sign " > " .
+
+3. &amp; - Represents the ampersand  " & " .
+
+4. &quot; - Represents the double quotation mark " " " .
+
+5. &apos; - Represents the single quotation mark (apostrophe) " ' " .

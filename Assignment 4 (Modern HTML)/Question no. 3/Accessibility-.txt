@@ -1,0 +1,14 @@
+Accessibility:-
+
+Accessibility in the context of web development refers to the practice of designing and developing websites and web applications in a way that ensures they can be used and accessed by as many people as possible, regardless of their abilities or disabilities. This includes individuals with various impairments, such as visual, auditory, motor, or cognitive disabilities, as well as those using assistive technologies like screen readers, voice recognition software, and specialized input devices.
+
+Creating an accessible website is essential for several reasons, and it brings about significant benefits for both users and website owners:
+
+1. Inclusivity and Equal Access:  Accessible websites ensure that everyone, including people with disabilities, can use and access the content and 				  functionalities. 
+
+2. Legal Compliance and Avoidance of Discrimination: Many countries have legal requirements or regulations mandating web accessibility .
+
+3. Wider Audience Reach: By making a website accessible, you expand your potential audience. This includes individuals with disabilities as well    		         as those using different devices (like mobile phones or tablets) or operating systems.
+
+4. Improved User Experience for Everyone: Many accessibility features, such as clear navigation, easy-to-read text, and well-structured content, 					  benefit all users. A more user-friendly experience leads to higher satisfaction and increased user 						  engagement. 
+5. Adaptability to Changing User Needs: As technology evolves, so do user needs. Creating an accessible website ensures that it remains usable for 					a wider range of users, including those who may acquire disabilities over time.

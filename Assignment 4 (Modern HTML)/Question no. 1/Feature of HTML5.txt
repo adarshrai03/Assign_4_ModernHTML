@@ -1,0 +1,12 @@
+HTML5 :- The latest version of Hypertext Markup Language, introduced several new features and improvements over its predecessors. 
+	 Here is a list of some prominent features of HTML5 :
+
+1. New Doctype: HTML5 uses a simplified, case-insensitive <!DOCTYPE html> declaration, which makes it easier to write and understand.
+
+2. Semantic Elements: HTML5 introduced several new semantic elements like <header>, <footer>, <nav>, <article>, <section>, <aside>, <figure>, <figcaption>, <main>, <mark> etc. These elements help in structuring a web page more meaningfully and improve accessibility.
+
+3. Multimedia Support: HTML5 provides native support for embedding audio and video content with <audio> and <video> elements. It supports various formats like MP4, WebM, and Ogg.
+
+4. Contenteditable Attribute: This allows the user to edit the content of an element like a <div> or a <span>.
+
+5.Canvas: HTML5 includes the <canvas> element, which provides a drawing surface that can be used with JavaScript to create dynamic graphics, animations, and interactive applications.
